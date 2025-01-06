@@ -48,10 +48,10 @@ using namespace rack;
 
 
 // Fonts:
-#define TROWA_DIGITAL_FONT		"res/Fonts/Digital dream Fat.ttf"
-#define TROWA_LABEL_FONT		"res/Fonts/ZeroesThree-Regular.ttf"
-#define TROWA_MONOSPACE_FONT	"res/Fonts/larabieb.ttf"
-#define TROWA_MATH_FONT			"res/Fonts/Math Symbols Normal.ttf"
+#define TROWA_DIGITAL_FONT		"res/Fonts/LT_stopwatch/LTStopwatch-Regular.ttf"
+#define TROWA_LABEL_FONT		"res/Fonts/y_224/Y224.ttf"
+#define TROWA_MONOSPACE_FONT	"res/Fonts/Touchscreen-Regular/Touchscreen-Regular.ttf"
+#define TROWA_MATH_FONT			"res/Fonts/Noto_Sans_Math/NotoSansMath-Regular.ttf"
 
 
 // The draw layer (for drawLayer() in v2)
