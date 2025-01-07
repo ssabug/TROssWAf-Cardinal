@@ -93,7 +93,7 @@ struct TS_ParamValueItem : ui::MenuItem {
 //------------------------------------------------------------------------------------------------
 struct TS_Label : Label {
 	// Font size. Default is 10.
-	int fontSize = 10;
+	int fontSize = 8;
 	// Font face
 	//std::shared_ptr<Font> font;
 	// The font color. Default is Dark Gray.

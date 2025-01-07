@@ -49,7 +49,7 @@ using namespace rack;
 
 // Fonts:
 #define TROWA_DIGITAL_FONT		"res/Fonts/LT_stopwatch/LTStopwatch-Regular.ttf"
-#define TROWA_LABEL_FONT		"res/Fonts/y_224/Y224.ttf"
+#define TROWA_LABEL_FONT		"res/Fonts/LT_stopwatch/LTStopwatch-Regular.ttf"//"res/Fonts/y_224/Y224.ttf"
 #define TROWA_MONOSPACE_FONT	"res/Fonts/Touchscreen-Regular/Touchscreen-Regular.ttf"
 #define TROWA_MATH_FONT			"res/Fonts/Noto_Sans_Math/NotoSansMath-Regular.ttf"
 
